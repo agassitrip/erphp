@@ -1,0 +1,38 @@
+# Arquivos de configuração
+.env
+config/database.php
+config/.env
+
+# Cache e sessões
+storage/cache/*
+storage/sessions/*
+storage/logs/*
+!storage/.gitkeep
+
+# Backups
+storage/backup/*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude
+.claude/
+
+# Uploads
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Composer
+vendor/
+composer.lock
+
+# Node modules
+node_modules/
+package-lock.json
