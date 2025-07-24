@@ -230,6 +230,24 @@ else return 20.00;                             // R$ 20
 - **DTO Pattern** - Transferência segura de dados
 - **Service Layer** - Lógica de negócio centralizada
 
+## 📸 Screenshots do Sistema
+
+### Configuração Inicial
+![First Run Setup](gitimg/autoconfig-first.JPG)
+*Wizard de configuração automática na primeira execução*
+
+### Interface de Login
+![Login Screen](gitimg/login.JPG)
+*Tela de login com autenticação segura*
+
+### Menu Administrativo
+![Admin Menu Toggle](gitimg/toggle_admin_menu.JPG)
+*Menu administrativo responsivo com toggle*
+
+### Tratamento de Erros
+![404 Error Handler](gitimg/404_error_handler.JPG)
+*Sistema personalizado de tratamento de erros 404*
+
 ## 🚀 Entrega do Teste
 
 **Sistema 100% funcional** atendendo todos os requisitos:
